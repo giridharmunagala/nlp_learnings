@@ -9,7 +9,7 @@ Few of the interesting NLP tasks are
 
 Writing this repo to showcase my skills in NLP using a series of Jupyter notebooks, each providing detailed solutions for NLP problems.
 
-Code is structured as follows
+Code is structured as follows <br>
 **text_classification**
 - nlp-text-classification-tfidf.ipynb - TF-IDF based text classification approach
 - nlp-text-classification-embeddings-classifier.ipynb - Building Skip gram embeddings
